@@ -1,4 +1,4 @@
-## These two functions cache potentially time consuming computations. 
+## These 2 functions cache potentially time consuming computations. 
 ## make_matrix creates a matrix object to cache an inputted matrix and its inverse. 
 ## invert_matrix calculates the inverse of an object, first retrieving it from the cache if possible.
 
